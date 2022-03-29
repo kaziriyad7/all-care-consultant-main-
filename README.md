@@ -1,4 +1,4 @@
 # All-Care-Consultant
 
-# Live link: https://kafiabdullah.github.io/all-care-consultant/
+# Live link: https://github.com/kaziriyad7/all-care-consultant-main-
 # all-care-consultant-main-
